@@ -1,6 +1,3 @@
-Claro — aqui está o código completo do `README.md` para você copiar e colar no GitHub:
-
-```
 # 👋 Olá, eu sou Akylles Gabriel!
 
 ### 🚀 Desenvolvedor em formação | Tecnologia | Programação
@@ -92,4 +89,3 @@ Aqui você encontrará meus projetos, experimentos e estudos relacionados à pro
 **Feito por Akylles Gabriel 💙**
 
 </div>
-```
